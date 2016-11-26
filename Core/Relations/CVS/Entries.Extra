@@ -1,0 +1,10 @@
+/AssociationRelation.cs////
+/CommentRelation.cs////
+/DependencyRelation.cs////
+/Direction.cs////
+/GeneralizationRelation.cs////
+/NestingRelation.cs////
+/RealizationRelation.cs////
+/Relation.cs////
+/RelationException.cs////
+/TypeRelation.cs////
